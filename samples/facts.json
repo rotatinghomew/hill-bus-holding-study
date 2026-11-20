@@ -1,0 +1,4648 @@
+[
+  {
+    "day": "2026-09-01",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "A",
+    "kind": "定位待核",
+    "stop": "合流",
+    "earliest": 1434,
+    "latest": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "A",
+    "kind": "更正定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1520
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "B",
+    "kind": "取消",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-01",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-02",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1437,
+    "received": 1438
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-03",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-04",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "A",
+    "kind": "定位待核",
+    "stop": "合流",
+    "earliest": 1434,
+    "latest": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-05",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-06",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1437,
+    "received": 1438
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "B",
+    "kind": "取消",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-07",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-08",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "A",
+    "kind": "定位待核",
+    "stop": "合流",
+    "earliest": 1434,
+    "latest": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "A",
+    "kind": "更正定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1520
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-09",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-10",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1437,
+    "received": 1438
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-11",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-12",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "A",
+    "kind": "定位待核",
+    "stop": "合流",
+    "earliest": 1434,
+    "latest": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "B",
+    "kind": "取消",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-13",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-14",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1437,
+    "received": 1438
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-15",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-16",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "A",
+    "kind": "定位待核",
+    "stop": "合流",
+    "earliest": 1434,
+    "latest": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "A",
+    "kind": "更正定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1520
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-17",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-18",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 4,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1437,
+    "received": 1438
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "B",
+    "kind": "取消",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-19",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 5,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-20",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 6,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1430,
+    "received": 1431
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "A",
+    "kind": "定位待核",
+    "stop": "合流",
+    "earliest": 1434,
+    "latest": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1444,
+    "received": 1445
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-21",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 2,
+    "alighted": 0,
+    "received": 1485
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "A",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1428
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1433,
+    "received": 1434
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1440,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "A",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1447,
+    "received": 1448
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "A",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1435
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "B",
+    "kind": "签到",
+    "vehicle": "车02",
+    "received": 1434
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1436,
+    "received": 1437
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1443,
+    "received": 1444
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "B",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1450,
+    "received": 1451
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "B",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1441
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "C",
+    "kind": "签到",
+    "vehicle": "车03",
+    "received": 1440
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "谷口",
+    "arrived": 1442,
+    "received": 1443
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "合流",
+    "arrived": 1449,
+    "received": 1450
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "C",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1456,
+    "received": 1457
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "C",
+    "kind": "上下车清点",
+    "stop": "谷口",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1447
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "D",
+    "kind": "签到",
+    "vehicle": "车01",
+    "received": 1458
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1460,
+    "received": 1461
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "D",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1467,
+    "received": 1468
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "D",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1465
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "E",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1456
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1458,
+    "received": 1459
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "E",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1465,
+    "received": 1466
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "E",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1463
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "F",
+    "kind": "签到",
+    "vehicle": "车04",
+    "received": 1478
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "学校",
+    "arrived": 1480,
+    "received": 1481
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "F",
+    "kind": "定位",
+    "stop": "场镇",
+    "arrived": 1487,
+    "received": 1488
+  },
+  {
+    "day": "2026-09-22",
+    "trip": "F",
+    "kind": "上下车清点",
+    "stop": "学校",
+    "boarded": 3,
+    "alighted": 0,
+    "received": 1485
+  }
+]

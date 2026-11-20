@@ -1,0 +1,574 @@
+[
+  {
+    "day": "2026-09-01",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-01",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-02",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-02",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-03",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-03",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-04",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-04",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-05",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-05",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-06",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-06",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-07",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-07",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-08",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-08",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-09",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-09",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-10",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-10",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-11",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-11",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-12",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-12",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-13",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-13",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-14",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-14",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-15",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-15",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-16",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-16",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-17",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-17",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-18",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-18",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-19",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-19",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-20",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-20",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-21",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-21",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  },
+  {
+    "day": "2026-09-22",
+    "group": "学员",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": "学校",
+    "ready": [
+      1431,
+      1436
+    ],
+    "count": 4,
+    "protected": true
+  },
+  {
+    "day": "2026-09-22",
+    "group": "赶集",
+    "origin": "谷口",
+    "destination": "场镇",
+    "via": null,
+    "ready": [
+      1425,
+      1434
+    ],
+    "count": 5,
+    "protected": false
+  }
+]

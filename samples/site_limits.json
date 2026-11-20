@@ -1,0 +1,10 @@
+{
+  "合流": {
+    "berths": 1,
+    "clearance_minutes": 2
+  },
+  "学校": {
+    "transfer_minutes": 4,
+    "turnaround_minutes": 9
+  }
+}

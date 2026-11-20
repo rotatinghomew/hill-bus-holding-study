@@ -1,0 +1,14 @@
+{
+  "decision_cutoff": 1505,
+  "revised_cutoff": 1540,
+  "protected_max_misses": 0,
+  "controls": [
+    "合流"
+  ],
+  "holding_choices_minutes": [
+    0,
+    2,
+    4,
+    7
+  ]
+}
