@@ -9,7 +9,7 @@ class SampleTests(unittest.TestCase):
     def setUp(self):
         self.data = read_samples()
 
-def test_running_day_links(self):
+    def test_running_day_links(self):
         scheduled = {(row['day'], row['trip']): row for row in self.data['schedules']}
         for fact in self.data['facts']:
             trip = scheduled[fact['day'], fact['trip']]
